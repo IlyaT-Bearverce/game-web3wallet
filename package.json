@@ -12,6 +12,7 @@
     "ethers": "5.5.1",
     "parcel-bundler": "^1.6.1"
   },
+  "type": "module",
   "devDependencies": {
     "@babel/core": "7.2.0",
     "typescript": "4.4.4"
